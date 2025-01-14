@@ -1,3 +1,5 @@
+https://whoisfawaz.hashnode.dev/mastering-real-time-performance-semaphore-benchmarking-and-latency-analysis-on-raspberry-pi-4-with-preemptrt
+
 # 🚀 Semaphore Benchmarking and Latency Analysis on Raspberry Pi 4
 
 ## 📖 Overview
